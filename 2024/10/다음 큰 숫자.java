@@ -1,4 +1,4 @@
-``` java
+// 첫번째 풀이
 class Solution {
     public int solution(int n) {
         int answer = 0;
@@ -32,14 +32,8 @@ class Solution {
         return count;
     }
 }
-```
 
-문제대로 구현해서 정확성 테스트를 통과했지만 효울성에서 모두 실패,,,
-
-찾아보니 Integer.bitCount(int n) 라는 함수가 존재한다.
-
-
-``` java
+// 두번째 풀이
 class Solution {
     public int solution(int n) {
         int answer = 0;
@@ -55,6 +49,9 @@ class Solution {
         return answer;
     }
 }
-```
 
-아는게 힘!!
+/*
+문제대로 구현해서 정확성 테스트를 통과했지만 효울성에서 모두 실패,,,
+
+찾아보니 Integer.bitCount(int n) 라는 함수가 존재한다 
+*/

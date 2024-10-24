@@ -1,6 +1,4 @@
 #### Algorithm 기록용
-### 2024
-
 10월
 ---
 #### [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java)
@@ -11,3 +9,5 @@
 #### [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) : [풀이](https://github.com/tmddus2123/Algorithm/tree/main/2024/10)
 
 #### [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%B9%B4%ED%8E%AB.java)
+
+#### [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) : [풀이](https://github.com/tmddus2123/Algorithm/tree/main/2024/10)

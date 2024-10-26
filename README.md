@@ -16,3 +16,5 @@
 #### [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.java) 24.10.25
 
 #### [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) 24.10.25
+
+#### [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) 24.10.26

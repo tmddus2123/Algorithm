@@ -18,3 +18,5 @@
 #### [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) 24.10.25
 
 #### [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) 24.10.26
+
+#### [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) 24.10.28

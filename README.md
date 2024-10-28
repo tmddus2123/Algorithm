@@ -20,3 +20,5 @@
 #### [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) 24.10.26
 
 #### [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) 24.10.28
+
+#### [멀리 뛰기](https://github.com/tmddus2123/Algorithm/new/main/2024/10) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.java) 24.10.28

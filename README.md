@@ -22,3 +22,5 @@
 #### [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) 24.10.28
 
 #### [멀리 뛰기](https://github.com/tmddus2123/Algorithm/new/main/2024/10) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.java) 24.10.28
+
+#### [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java) 24.10.29

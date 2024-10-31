@@ -26,3 +26,5 @@
 #### [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java) 24.10.29
 
 #### [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701?language=java) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) 24.10.30
+
+#### [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) 24.10.31

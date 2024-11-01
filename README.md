@@ -28,3 +28,7 @@
 #### [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701?language=java) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) 24.10.30
 
 #### [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502#) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/10/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) 24.10.31
+
+11월
+---
+#### [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) 24.11.01

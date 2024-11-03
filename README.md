@@ -32,3 +32,5 @@
 11월
 ---
 #### [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) 24.11.01
+
+#### [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java) 24.11.03

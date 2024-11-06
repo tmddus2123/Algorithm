@@ -38,3 +38,5 @@
 #### [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.java) 24.11.04
 
 #### [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/H-Index.java) 24.11.05
+
+#### [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.java) 24.11.06

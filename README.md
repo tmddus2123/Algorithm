@@ -40,3 +40,5 @@
 #### [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/H-Index.java) 24.11.05
 
 #### [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.java) 24.11.06
+
+#### [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%9D%98%EC%83%81.java) 24.11.07

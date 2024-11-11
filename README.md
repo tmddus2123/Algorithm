@@ -44,3 +44,6 @@
 #### [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%9D%98%EC%83%81.java) 24.11.07
 
 #### [이진변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) :[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) 24.11.09
+
+#### [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%94%BC%EB%A1%9C%EB%8F%84.java) 24.11.11
+

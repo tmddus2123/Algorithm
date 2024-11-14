@@ -47,4 +47,7 @@
 
 #### [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%94%BC%EB%A1%9C%EB%8F%84.java) 24.11.11
 
-#### [N과 M (1)](https://www.acmicpc.net/problem/15649) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/N%EA%B3%BC%20M%20(1).java) 24.11.12
+#### [N과 M (1)](https://www.acmicpc.net/problem/15649) boj.kr/15649 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/N%EA%B3%BC%20M%20(1).java) 24.11.12
+
+#### [N과 M (4)](https://www.acmicpc.net/problem/15652) boj.kr/15652 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/N%EA%B3%BC%20M%20(4).java) 24.11.14
+

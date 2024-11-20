@@ -55,3 +55,5 @@
 
 
 #### [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%8A%9C%ED%94%8C.java) 24.11.19
+
+#### [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84.java) 24.11.20

@@ -61,3 +61,8 @@
 #### [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/C%23/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.cs) 24.11.25
 
 #### [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) 24.11.26
+
+#### [스타트와 링크](https://www.acmicpc.net/problem/14889) boj.kr/14889 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.java) 24.11.27
+
+
+

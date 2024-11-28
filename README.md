@@ -64,5 +64,5 @@
 
 #### [스타트와 링크](https://www.acmicpc.net/problem/14889) boj.kr/14889 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.java) 24.11.27
 
-
+#### [계단 오르기](https://www.acmicpc.net/problem/2579) boj.kr/2579 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.java) 24.11.28
 

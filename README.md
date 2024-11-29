@@ -66,3 +66,5 @@
 
 #### [계단 오르기](https://www.acmicpc.net/problem/2579) boj.kr/2579 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.java) 24.11.28
 
+#### [누적합](https://www.acmicpc.net/problem/1912) boj.kr/1912 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%97%B0%EC%86%8D%ED%95%A9.java) 24.11.29
+

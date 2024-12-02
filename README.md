@@ -68,3 +68,7 @@
 
 #### [누적합](https://www.acmicpc.net/problem/1912) boj.kr/1912 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%97%B0%EC%86%8D%ED%95%A9.java) 24.11.29
 
+12월
+---
+#### [수열](https://www.acmicpc.net/problem/2559) boj.kr/2559 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%88%98%EC%97%B4.java) 24.12.02
+

@@ -72,3 +72,6 @@
 ---
 #### [수열](https://www.acmicpc.net/problem/2559) boj.kr/2559 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/11/%EC%88%98%EC%97%B4.java) 24.12.02
 
+#### [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) boj.kr/11053 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java) 24.12.03
+
+

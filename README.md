@@ -78,4 +78,6 @@
 
 #### [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) boj.kr/11055 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java) 24.12.05
 
-#### [ZOAC 4](https://www.acmicpc.net/problem/23971) boj.kr/23971 : [풀이](https://github.com/tmddus2123/Algorithm/tree/main/2024/12)
+#### [ZOAC 4](https://www.acmicpc.net/problem/23971) boj.kr/23971 : [풀이](https://github.com/tmddus2123/Algorithm/tree/main/2024/12) 24.12.06
+
+#### [덩치](https://www.acmicpc.net/problem/7568) boj.kr/7568 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8D%A9%EC%B9%98.java) 24.12.08

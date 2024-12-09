@@ -81,3 +81,5 @@
 #### [ZOAC 4](https://www.acmicpc.net/problem/23971) boj.kr/23971 : [풀이](https://github.com/tmddus2123/Algorithm/tree/main/2024/12) 24.12.06
 
 #### [덩치](https://www.acmicpc.net/problem/7568) boj.kr/7568 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8D%A9%EC%B9%98.java) 24.12.08
+
+#### [올림픽](https://www.acmicpc.net/problem/8979) boj.kr/8979 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%98%AC%EB%A6%BC%ED%94%BD.java) 24.12.09

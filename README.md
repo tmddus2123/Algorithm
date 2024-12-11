@@ -85,3 +85,5 @@
 #### [올림픽](https://www.acmicpc.net/problem/8979) boj.kr/8979 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%98%AC%EB%A6%BC%ED%94%BD.java) 24.12.09
 
 #### [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) boj.kr/20920 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C.java) 24.12.10
+
+#### [타노스](https://www.acmicpc.net/problem/20310) boj.kr/20310 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%83%80%EB%85%B8%EC%8A%A4.java)   24.12.11

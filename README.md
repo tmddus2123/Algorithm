@@ -86,4 +86,7 @@
 
 #### [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) boj.kr/20920 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C.java) 24.12.10
 
-#### [타노스](https://www.acmicpc.net/problem/20310) boj.kr/20310 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%83%80%EB%85%B8%EC%8A%A4.java)   24.12.11
+#### [타노스](https://www.acmicpc.net/problem/20310) boj.kr/20310 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%83%80%EB%85%B8%EC%8A%A4.java) 24.12.11
+
+#### [등수 구하기](https://www.acmicpc.net/problem/1205) boj.kr/1205 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%93%B1%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) 24.12.12
+

@@ -90,3 +90,4 @@
 
 #### [등수 구하기](https://www.acmicpc.net/problem/1205) boj.kr/1205 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%93%B1%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) 24.12.12
 
+#### [나무 자르기](https://www.acmicpc.net/problem/2805) boj.kr/2805 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) 24.12.13

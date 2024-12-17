@@ -93,3 +93,5 @@
 #### [나무 자르기](https://www.acmicpc.net/problem/2805) boj.kr/2805 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) 24.12.13
 
 #### [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) boj.kr/19637 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/IF%EB%AC%B8%20%EC%A2%80%20%EB%8C%80%EC%8B%A0%20%EC%8D%A8%EC%A4%98.java) 24.12.16
+
+#### [덱](https://www.acmicpc.net/problem/10866) boj.kr/10866 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8D%B1.java) 24.12.17

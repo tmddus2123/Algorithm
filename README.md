@@ -95,3 +95,5 @@
 #### [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) boj.kr/19637 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/IF%EB%AC%B8%20%EC%A2%80%20%EB%8C%80%EC%8B%A0%20%EC%8D%A8%EC%A4%98.java) 24.12.16
 
 #### [덱](https://www.acmicpc.net/problem/10866) boj.kr/10866 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8D%B1.java) 24.12.17
+
+#### [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/Sender%20With%20Larges%20Word%20Count.java) 24.12.18

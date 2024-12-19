@@ -1,5 +1,7 @@
 /**
   문제를 이해하는데 오래걸렸다. 사실 이해해도 어떻게 구현해야하는지 모르겠다..
+
+  https://st-lab.tistory.com/182
 */
 import java.util.*;
 import java.io.*;

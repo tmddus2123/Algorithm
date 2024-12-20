@@ -98,4 +98,6 @@
 
 #### [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/Sender%20With%20Larges%20Word%20Count.java) 24.12.18
 
-#### [스택 수열](https://www.acmicpc.net/problem/1874) : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.java) 24.12.19
+#### [스택 수열](https://www.acmicpc.net/problem/1874) boj.kr/1874 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.java) 24.12.19
+
+#### [피보나치 함수](https://www.acmicpc.net/problem/1003) boj.kr/1003 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.java) 24.12.20

@@ -101,3 +101,5 @@
 #### [스택 수열](https://www.acmicpc.net/problem/1874) boj.kr/1874 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.java) 24.12.19
 
 #### [피보나치 함수](https://www.acmicpc.net/problem/1003) boj.kr/1003 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.java) 24.12.20
+
+#### [스티커](https://www.acmicpc.net/problem/9465) boj.kr/9465 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%8A%A4%ED%8B%B0%EC%BB%A4.java) 24.12.21

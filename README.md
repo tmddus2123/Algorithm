@@ -106,4 +106,4 @@
 
 #### [다리놓기](https://www.acmicpc.net/problem/1010) boj.kr/1010 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.java) 24.12.23
 
-
+#### [카드 구매하기](https://www.acmicpc.net/problem/11052) boj.kr/11052 : [풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) 24.12.24

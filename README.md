@@ -40,3 +40,9 @@
 [피보나치 함수](https://www.acmicpc.net/problem/1003) boj.kr/1003|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.java)|24.12.20|[스티커](https://www.acmicpc.net/problem/9465) boj.kr/9465|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%8A%A4%ED%8B%B0%EC%BB%A4.java)|24.12.21
 [다리놓기](https://www.acmicpc.net/problem/1010) boj.kr/1010|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.java)|24.12.23|[카드 구매하기](https://www.acmicpc.net/problem/11052) boj.kr/11052|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java)|24.12.24
 [동전 1](https://www.acmicpc.net/problem/2293) boj.kr/2293|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EB%8F%99%EC%A0%84%201.java)|24.12.27|[상자넣기](https://www.acmicpc.net/problem/1965) boj.kr/1965|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2024/12/%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.java)|24.12.31
+
+1월
+---
+문제|풀이|날짜|문제|풀이|날짜
+:---:|---|---|:---:|---|---
+[히오스 프로게이머](https://www.acmicpc.net/problem/16564) boj.kr/16564|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%ED%9E%88%EC%98%A4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8.java)|25.01.02

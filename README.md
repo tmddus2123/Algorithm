@@ -46,3 +46,4 @@
 문제|풀이|날짜|문제|풀이|날짜
 :---:|---|---|:---:|---|---
 [히오스 프로게이머](https://www.acmicpc.net/problem/16564) boj.kr/16564|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%ED%9E%88%EC%98%A4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8.java)|25.01.02|[점프](https://www.acmicpc.net/problem/1890) boj.kr/1890|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EC%A0%90%ED%94%84.java)|25.01.03
+[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)|25.01.04

@@ -54,7 +54,7 @@
 [기타 레슨](https://www.acmicpc.net/problem/2343) boj.kr/2343|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EA%B8%B0%ED%83%80%20%EB%A0%88%EC%8A%A8.java)|25.01.16|[게임](https://www.acmicpc.net/problem/1072) boj.kr/1072|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EA%B2%8C%EC%9E%84.java)|25.01.18
 [DFS와 BFS](https://www.acmicpc.net/problem/1260) boj.kr/1260|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/DFS%EC%99%80%20BFS.java)|25.01.20|[스타트링크](https://www.acmicpc.net/problem/5014) boj.kr/5014|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.java)|25.01.23
 [빙산](https://www.acmicpc.net/problem/2573) boj.kr/2573|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EB%B9%99%EC%82%B0.java)|25.01.24|[토마토](https://www.acmicpc.net/problem/7576) boj.kr/7576|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%ED%86%A0%EB%A7%88%ED%86%A0.java)|25.01.25
-[치킨 배달](https://www.acmicpc.net/problem/15686) boj.kr/15686|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.java)|25.01.26
+[치킨 배달](https://www.acmicpc.net/problem/15686) boj.kr/15686|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.java)|25.01.26|[암호 만들기](https://www.acmicpc.net/problem/1759) boj.kr/1759|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/01/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|25.01.31
 
 
 

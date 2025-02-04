@@ -60,7 +60,8 @@
 ---
 문제|풀이|날짜|문제|풀이|날짜
 :---:|---|---|:---:|---|---
-[N과 M (8)](https://www.acmicpc.net/problem/15657) boj.kr/15657|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/N%EA%B3%BC%20M%20(8).java)|25.02.01|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) boj.kr/1018|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.java)|25.02.23
+[N과 M (8)](https://www.acmicpc.net/problem/15657) boj.kr/15657|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/N%EA%B3%BC%20M%20(8).java)|25.02.01|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) boj.kr/1018|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.java)|25.02.03
+[숨바꼭질](https://www.acmicpc.net/problem/1697) boj.kr/1697|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)|25.02.04
 
 
 

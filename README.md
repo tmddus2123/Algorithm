@@ -64,6 +64,7 @@
 [숨바꼭질](https://www.acmicpc.net/problem/1697) boj.kr/1697|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)|25.02.04|[부등호](https://www.acmicpc.net/problem/2529) boj.kr/2529|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EB%B6%80%EB%93%B1%ED%98%B8.java)|25.02.05
 [오목](https://www.acmicpc.net/problem/2615) boj.kr/2615|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%98%A4%EB%AA%A9.java)|25.02.06|[날짜 계산](https://www.acmicpc.net/problem/1476) boj.kr/1476|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0.java)|25.02.07
 [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)|25.02.08|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)|25.02.10
+[ATM](https://www.acmicpc.net/problem/11399) boj,kr/11399|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/ATM.java)|25.02.11
 
 
 

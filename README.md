@@ -65,7 +65,7 @@
 [오목](https://www.acmicpc.net/problem/2615) boj.kr/2615|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%98%A4%EB%AA%A9.java)|25.02.06|[날짜 계산](https://www.acmicpc.net/problem/1476) boj.kr/1476|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0.java)|25.02.07
 [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)|25.02.08|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)|25.02.10
 [ATM](https://www.acmicpc.net/problem/11399) boj.kr/11399|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/ATM.java)|25.02.11|[맥주축제](https://www.acmicpc.net/problem/17503)|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EB%A7%A5%EC%A3%BC%20%EC%B6%95%EC%A0%9C.java)|25.02.12
-[신입사원](https://www.acmicpc.net/problem/1946) boj.kr/1946|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%8B%A0%EC%9E%85%20%EC%82%AC%EC%9B%90.java)|25.02.13
+[신입사원](https://www.acmicpc.net/problem/1946) boj.kr/1946|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%8B%A0%EC%9E%85%20%EC%82%AC%EC%9B%90.java)|25.02.13|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) boj.kr/19598|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98.java)|25.02.14
 
 
 

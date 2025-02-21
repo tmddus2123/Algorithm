@@ -68,6 +68,6 @@
 [신입사원](https://www.acmicpc.net/problem/1946) boj.kr/1946|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%8B%A0%EC%9E%85%20%EC%82%AC%EC%9B%90.java)|25.02.13|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) boj.kr/19598|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98.java)|25.02.14
 [초콜릿 식사](https://www.acmicpc.net/problem/2885) boj.kr/2885|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%8B%9D%EC%82%AC.java)|25.02.15|[이동하기](https://www.acmicpc.net/problem/11048) boj.kr/11048|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java)|25.02.18
 [LCS](https://www.acmicpc.net/problem/9251) boj.kr/9251|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/LCS.java)|25.02.19|[합분해](https://www.acmicpc.net/problem/2225) boj.kr/2225|[풀이](https://github.com/tmddus2123/Algorithm/tree/main/2025/02)|25.02.20
-
+[무한 수열](https://www.acmicpc.net/problem/1351) boj.kr/1351|[풀이](https://github.com/tmddus2123/Algorithm/blob/main/2025/02/%EB%AC%B4%ED%95%9C%20%EC%88%98%EC%97%B4.java)|25.02.21
 
 
